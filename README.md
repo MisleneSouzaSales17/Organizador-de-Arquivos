@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Organizador de Arquivos em Python
 
 Este projeto demonstra como automatizar uma tarefa repetitiva clássica: organizar arquivos em uma pasta, distribuindo-os em subpastas de acordo com seu tipo.  
@@ -38,3 +39,6 @@ Na pasta `Downloads`, crie os arquivos:
 Execute:
 ```bash
 python organizar.py
+=======
+# Organizador-de-Arquivos
+>>>>>>> c774294517ea9046fce888615a4719f4bebf0a73
